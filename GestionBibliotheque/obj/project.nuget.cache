@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/RBmGeopEqat+PNvI46EeZnCNGRLrs9d9q/hsSMHxq/twan/z73qfWHSAusPcOjwjxIcW4VIDFeTBVeSzMgQcQ==",
+  "dgSpecHash": "gL8kvYmGZBe8wNDBd8aJZp0MqJuiIWnSNrC6+3vjCeRGHzBim6BeFAZYGVN+TpQz+uH0gjbkl4/XutwvH5Oezw==",
   "success": true,
-  "projectFilePath": "/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliotheque/GestionBibliotheque.csproj",
-  "expectedPackageFiles": [
-    "/Users/salimmouttaki/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "/Users/salimmouttaki/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "/Users/salimmouttaki/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.14/microsoft.netcore.app.host.osx-x64.7.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\MOU\\Desktop\\Work\\gestion-bibliotheque\\GestionBibliotheque\\GestionBibliotheque.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
